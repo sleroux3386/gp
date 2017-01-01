@@ -133,3 +133,6 @@ footer {
     border-bottom: 1px solid #eee;
     font-weight: bold;
 }
+.floatRight{
+    float:right;
+}
